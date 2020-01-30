@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__f101-00-form-message__icon</name>
+   <tag></tag>
+   <elementGuidId>8d0fde57-9c95-4f30-b2cb-ad67fb6deeeb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='buy_model_form']/div/div/div/div/div[3]/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>f101-00-form-message__icon</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;page-wrapper&quot;]/main[@class=&quot;main-content&quot;]/div[@class=&quot;ui u100-00&quot;]/div[@class=&quot;u100-00__container&quot;]/div[@class=&quot;u100-00__body&quot;]/div[@class=&quot;component-root&quot;]/div[@id=&quot;buy_model_form&quot;]/div[@class=&quot;f101-00__container&quot;]/div[@class=&quot;f101-00__row&quot;]/div[@class=&quot;f101-00__item f101-00-form f101-00-form--show&quot;]/div[@class=&quot;f101-00-form__container&quot;]/div[@class=&quot;f101-00-form__message f101-00-form-message message-success&quot;]/div[@class=&quot;f101-00-form-message__container&quot;]/div[@class=&quot;f101-00-form-message__icon&quot;]</value>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='buy_model_form']/div/div/div/div/div[3]/div/div</value>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[3]/div/div</value>
+   </webElementXpaths>
+</WebElementEntity>

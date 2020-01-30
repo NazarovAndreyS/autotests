@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Форма заказа техники</description>
+   <name>Techic Request</name>
+   <tag>forms</tag>
+   <comment></comment>
+   <testCaseGuid>093b3a60-0724-4d6d-80f2-edc92e3c9bab</testCaseGuid>
+</TestCaseEntity>
